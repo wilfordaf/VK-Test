@@ -14,9 +14,11 @@
 / файл на Github) с подробными пояснениями на каждом шаге
 
 Результат на тестовой выборке:
+
 ![example_test](/assets/example_test.png)
 
 Пример предсказания для пользователя:
+
 ![example_recommend](/assets/example_recommend.png)
 
 ### Выводы по работе
